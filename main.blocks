@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="ATXv,=zGB.[(%^t?B?#k" x="0" y="0"></block><block type="device_button_event" id="`O7ifMI]3[B4M1/a18A]" x="388" y="125"><field name="NAME">Button.A</field></block><block type="pxt-on-start" id="!tK,Ax86d)xuvxy]2;v:" x="8" y="188"></block></xml>
